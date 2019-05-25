@@ -6,7 +6,7 @@ Bootcamp Arkademy Batch 10 Kloter 5.
 
 Developed By Ananda Rauf Maududi
 
-Cara menggunakan / memakai / membuka soal 5 :
+Cara menggunakan / memakai / membuka soal 5 dan 3 :
 
 - Download Visual Studio di : https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16
 - Install, setelah itu buka Visual Studio 
